@@ -2,7 +2,7 @@
   <img src="assets/header.svg" width="100%" alt="Vivek Bharadwaj: I build apps, games and gadgets that fix small, real problems.">
 </p>
 
-Hi, I'm Vivek 👋 I'm a student at Adlai E. Stevenson High School, and I like building things that solve a problem I've actually run into. That has meant a browser arcade of party games, a Mac app that gets real surround sound out of a TV, a light that settles who's next at the pickleball courts, and an app for practicing debate. Below is what each one does and how it works.
+Hi, I'm Vivek  I'm a student at Adlai E. Stevenson High School, and I like building things that solve a problem I've actually run into. That has meant a browser arcade of party games, a Mac app that gets real surround sound out of a TV, a light that settles who's next at the pickleball courts, and an app for practicing debate. Below is what each one does and how it works.
 
 <br>
 
@@ -15,7 +15,7 @@ Hi, I'm Vivek 👋 I'm a student at Adlai E. Stevenson High School, and I like b
 
 <br>
 
-## 🕹️ Arcade
+## Arcade
 
 **A website where friends can jump into a game together from their own phones or laptops.** Someone makes a room, shares a 4-letter code, and everyone plays live.
 
@@ -35,9 +35,9 @@ Hi, I'm Vivek 👋 I'm a student at Adlai E. Stevenson High School, and I like b
 
 <br>
 
-## 🔊 SurroundBridge
+## SurroundBridge
 
-**A macOS app that lets a Mac play true 5.1 surround sound through a TV or receiver, with full control over every speaker.**
+**A macOS app that lets a Mac play true AC3 Dolby Digital 5.1 surround sound through a TV or receiver, with full control over every speaker.**
 
 The problem: HDMI ARC and optical cables can't carry six channels of normal audio, so a Mac connected that way only plays stereo. SurroundBridge captures the Mac's sound as 5.1, applies your settings, then compresses it into Dolby Digital in real time, which those cables *can* carry.
 
@@ -51,9 +51,9 @@ Built on top of [SoundPusher](https://codeberg.org/q-p/SoundPusher) by Daniel Vo
 
 <br>
 
-## 🎾 OpenCourt
+## OpenCourt
 
-**A small device that keeps public pickleball courts fair, plus an app that tells you how busy they are before you drive over.**
+**A small device that keeps public pickleball court rotations fair, plus an app that tells you how busy they are before you drive over.**
 
 At public courts the rule is "play a game, then rotate off," but nobody likes being the person who tells a group to leave. OpenCourt puts a camera and a Raspberry Pi by the courts. It counts how many people are playing and how many are waiting, and when a group has been on for 20 minutes while others wait, an amber light turns on at their court. Nobody has to argue; you just point at the light.
 
@@ -76,7 +76,7 @@ At public courts the rule is "play a game, then rotate off," but nobody likes be
 
 <br>
 
-## 🎙️ Jalpa
+##Jalpa
 
 **Online one-on-one voice debates, judged by AI and ranked with Elo, so you can practice debate any time without needing a partner or a judge.**
 
