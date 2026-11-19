@@ -2,7 +2,7 @@
   <img src="assets/header.svg" width="100%" alt="Vivek Bharadwaj: I build apps, games and gadgets that fix small, real problems.">
 </p>
 
-Hi, I'm Vivek  I'm a student at Adlai E. Stevenson High School, and I like building things that solve a problem I've actually run into. That has meant a browser arcade of party games, a Mac app that gets real surround sound out of a TV, a light that settles who's next at the pickleball courts, and an app for practicing debate. Below is what each one does and how it works.
+Hi, I'm Vivek  I'm a student at Adlai E. Stevenson High School, and I like building things that solve a problem I've actually run into. That has meant a browser arcade of party games, a Mac app that sends real surround sound to a TV live, a light that settles who's next at the pickleball courts, and an app for practicing debate. Below is what each one does and how it works.
 
 <br>
 
